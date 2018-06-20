@@ -1,6 +1,6 @@
 # Alnico
 
-Alnico is an eloquent material design style WordPress theme based on material design lite.
+Alnico is an eloquent material-design styled WordPress theme based on material design lite.
 
 [Demo][1] [中文][2]
 
